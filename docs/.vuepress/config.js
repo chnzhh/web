@@ -1,3 +1,4 @@
 module.exports = {
-    base: "/vuepress-starter/"
+    base: "/web/"
+
 }
