@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-starter",
+  "name": "web",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -12,3 +12,4 @@
     "deploy": "bash deploy.sh"
   }
 }
+
